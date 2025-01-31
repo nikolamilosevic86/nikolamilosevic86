@@ -26,8 +26,9 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikolamilosevi
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikolamilosevic86&theme=transparent)
 
-![nikolamilosevic86 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=nikolamilosevic86)
-
-![nikolamilosevic86 github-trophies](https://stats.dooboo.io/api/github-trophies?login=nikolamilosevic86)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/openai-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=%2361DAFB)
 
 
