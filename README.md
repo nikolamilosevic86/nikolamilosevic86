@@ -28,7 +28,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikolamilosevi
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikolamilosevic86&theme=transparent)
 
 Total visitor count, since I create this description page:
-![visitors](https://vbr.nathanchung.dev/badge?page_id=nikolamilosevic861&color=00cf00)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=nikolamilosevic86.nikolamilosevic861&color=00cf00)
 
 
 # Tech Stack
