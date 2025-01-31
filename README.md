@@ -20,13 +20,14 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikolamilosevi
 
 # My Statistics
 
-![nikolamilosevic86 github-trophies](https://stats.dooboo.io/api/github-trophies?login=nikolamilosevic86)
-
-
 ![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolamilosevic86&show_icons=true&rank_icon=percentile)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolamilosevic86&show_icons=true&layout=donut)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikolamilosevic86&theme=transparent)
+
+![nikolamilosevic86 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=nikolamilosevic86)
+
+![nikolamilosevic86 github-trophies](https://stats.dooboo.io/api/github-trophies?login=nikolamilosevic86)
 
 
