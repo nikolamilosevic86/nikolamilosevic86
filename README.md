@@ -20,10 +20,8 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikolamilosevi
 
 # My Statistics
 
-<details>
 ![nikolamilosevic86 github-trophies](https://stats.dooboo.io/api/github-trophies?login=nikolamilosevic86)
 
-</details>
 
 ![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolamilosevic86&show_icons=true&rank_icon=percentile)
 
