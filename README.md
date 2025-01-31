@@ -19,6 +19,7 @@ You can also check my articles on [Medium](https://datawarrior.medium.com/).
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikolamilosevic1986/) or [X.com](https://x.com/text_miner). 
 
 # My Statistics
+![Visitor Count](https://profile-counter.glitch.me/nikolamilosevic86/count.svg)
 
 ![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolamilosevic86&show_icons=true&rank_icon=percentile)
 
