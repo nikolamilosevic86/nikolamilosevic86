@@ -8,6 +8,8 @@ I used to be for years OWASP (Open Web Application Security Project) leader for 
 
 I am quite passinate about open source and my focus is on natural language processing (NLP), machine learning and lately a bit more on generative AI.  
 
+My latest Open Source project is [VerifAI](https://verifai-project.com/), for which you can check Github at https://github.com/nikolamilosevic86/verifAI
+
 
 # My Publications
 
