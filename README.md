@@ -20,6 +20,12 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikolamilosevi
 
 # My Statistics
 
+<details>
+  <summary>🏆GitHub Throphies</summary>
+  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=nikolamilosevic86" width="600" /></a>
+
+</details>
+
 ![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolamilosevic86&show_icons=true&rank_icon=percentile)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolamilosevic86&show_icons=true&layout=donut)
