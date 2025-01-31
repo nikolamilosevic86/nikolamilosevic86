@@ -19,13 +19,16 @@ You can also check my articles on [Medium](https://datawarrior.medium.com/).
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikolamilosevic1986/) or [X.com](https://x.com/text_miner). 
 
 # My Statistics
-![Visitor Count](https://profile-counter.glitch.me/nikolamilosevic86/count.svg)
+
 
 ![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolamilosevic86&show_icons=true&rank_icon=percentile)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolamilosevic86&show_icons=true&layout=donut)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikolamilosevic86&theme=transparent)
+
+Total visitor count, since I create this description page:
+![visitors](https://vbr.nathanchung.dev/badge?page_id=nikolamilosevic861&color=00cf00)
 
 
 # Tech Stack
