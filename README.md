@@ -1,6 +1,12 @@
 # Nikola Milosevic
 
-Hello, I am Nikola. I have quite mixed backround - I was born in Bratislava, Slovakia, lived in Belgrade Serbia, where I finished undergraduate and master studies at the University of Belgrade, Faculty of Electrical Engineering, than I did my PhD in computer science at the University of Manchester in UK, and lived there for 6 years (including 2 post-docs, and teaching master courses on Information Security and Malware analysis and Reverse engineering at the University of Salford), and now I live in Berlin, Germany for last 5 years. I work at Bayer in Berlin, and I have affiliation with the Institute for Artificial Intelligence Research and Development of Serbia. I used to be for years OWASP (Open Web Application Security Project) leader for local chapters in Serbia and Manchester, as well as OWASP Seraphimdroid project. I am quite passinate about open source and my focus is on natural language processing (NLP), machine learning and lately a bit more on generative AI.  
+Hello, I am Nikola. 
+
+I have quite mixed backround - I was born in Bratislava, Slovakia, lived in Belgrade Serbia, where I finished undergraduate and master studies at the University of Belgrade, Faculty of Electrical Engineering, than I did my PhD in computer science at the University of Manchester in UK, and lived there for 6 years (including 2 post-docs, and teaching master courses on Information Security and Malware analysis and Reverse engineering at the University of Salford), and now I live in Berlin, Germany for last 5 years. I work at Bayer in Berlin, and I have affiliation with the Institute for Artificial Intelligence Research and Development of Serbia. 
+
+I used to be for years OWASP (Open Web Application Security Project) leader for local chapters in Serbia and Manchester, as well as OWASP Seraphimdroid project. 
+
+I am quite passinate about open source and my focus is on natural language processing (NLP), machine learning and lately a bit more on generative AI.  
 
 # My Statistics
 
