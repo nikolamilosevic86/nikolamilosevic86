@@ -21,8 +21,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikolamilosevi
 # My Statistics
 
 <details>
-  <summary>🏆GitHub Throphies</summary>
-  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=nikolamilosevic86" width="600" /></a>
+![nikolamilosevic86 github-trophies](https://stats.dooboo.io/api/github-trophies?login=nikolamilosevic86)
 
 </details>
 
