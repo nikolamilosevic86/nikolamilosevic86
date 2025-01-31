@@ -8,6 +8,7 @@ I used to be for years OWASP (Open Web Application Security Project) leader for 
 
 I am quite passinate about open source and my focus is on natural language processing (NLP), machine learning and lately a bit more on generative AI.  
 
+
 # My Publications
 
 You can find my complete list of publications on [Google Scholar](https://scholar.google.com/citations?user=VvZWeIsAAAAJ&hl=en).
