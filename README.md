@@ -28,6 +28,8 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikolamilosevi
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikolamilosevic86&theme=transparent)
 
+![Snake animation](https://github.com/nikolamilosevic86/nikolamilosevic86/blob/output/github-contribution-grid-snake.svg)
+
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=nikolamilosevic86.nikolamilosevic861&color=00cf00)
 
